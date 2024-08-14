@@ -1,3 +1,11 @@
+---
+name: User story
+about: Create a new user story
+title: ''
+labels: ''
+assignees: ''
+
+---
 As a...
 
 ### Acceptance Criteria:
